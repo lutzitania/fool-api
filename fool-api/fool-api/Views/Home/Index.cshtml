@@ -1,0 +1,78 @@
+﻿<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>ASP.NET Web API is a framework that makes it easy to build HTTP services that reach
+        a broad range of clients, including browsers and mobile devices. ASP.NET Web API
+        is an ideal platform for building RESTful applications on the .NET Framework.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301870">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301871">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301872">Learn more &raquo;</a></p>
+    </div>
+</div>
+<button type="button" class="btn btn-lg btn-primary" id="btn-testpost">Test Post</button>
+<button type="button" class="btn btn-lg btn-primary" id="btn-testput">Test Put</button>
+<button type="button" class="btn btn-lg btn-primary" id="btn-testdelete">Test Delete</button>
+
+<script type="text/javascript">
+    $('#btn-testpost').click(function (e) {
+        $.ajax({
+            type: "POST",
+            url: "../api/Orders",
+            contentType: "application/json; charset=utf-8",
+            data: '{CustomerId: 1008, OfferId: 87, PurchasePrice: 12.34, ProductId: 85}',
+            success: function (data) {
+                //Do something
+                console.log(data);
+            },
+            error: function (e) {
+                //Do something
+                console.log(e);
+            }
+        });
+    });
+    $('#btn-testput').click(function (e) {
+        $.ajax({
+            type: "PUT",
+            url: "../api/Orders/201",
+            contentType: "application/json; charset=utf-8",
+            data: '{status: 6}',
+            success: function (data) {
+                //Do something
+                console.log(data);
+            },
+            error: function (e) {
+                //Do something
+                console.log(e);
+            }
+        });
+    });
+    $('#btn-testdelete').click(function (e) {
+        $.ajax({
+            type: "DELETE",
+            url: "../api/Orders/201",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                //Do something
+                console.log(data);
+            },
+            error: function (e) {
+                //Do something
+                console.log(e);
+            }
+        });
+    });
+</script>

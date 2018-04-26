@@ -1,0 +1,780 @@
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\ApplicationInsights.config
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\csc.exe
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\csc.exe.config
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\csc.rsp
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\csi.exe
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\csi.exe.config
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\csi.rsp
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.AppContext.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Console.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.IO.Compression.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.Claims.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.ValueTuple.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\vbc.exe
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\vbc.exe.config
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\vbc.rsp
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\fool-api.dll.config
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\fool-api.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\fool-api.pdb
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Antlr3.Runtime.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.Web.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Newtonsoft.Json.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Net.Http.Formatting.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Helpers.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Http.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Http.WebHost.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Mvc.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Optimization.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Razor.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.WebPages.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.WebPages.Razor.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\WebGrease.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Newtonsoft.Json.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Net.Http.Formatting.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Helpers.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Http.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Http.WebHost.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Mvc.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Optimization.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.Razor.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.WebPages.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\System.Web.WebPages.Razor.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Antlr3.Runtime.pdb
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\Microsoft.AI.Web.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\obj\Debug\fool-api.csprojResolveAssemblyReference.cache
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\obj\Debug\fool-api.csproj.CoreCompileInputs.cache
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\obj\Debug\fool-api.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\obj\Debug\fool-api.pdb
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\EntityFramework.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\EntityFramework.SqlServer.dll
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\EntityFramework.xml
+C:\Dev\fool2\fool-api apr-24\fool-api\fool-api\bin\EntityFramework.SqlServer.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\ApplicationInsights.config
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\csc.exe
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\csc.exe.config
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\csc.rsp
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\csi.exe
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\csi.exe.config
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\csi.rsp
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.AppContext.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Console.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.IO.Compression.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.Claims.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.ValueTuple.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\vbc.exe
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\vbc.exe.config
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\vbc.rsp
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\fool-api.dll.config
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\fool-api.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\fool-api.pdb
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Antlr3.Runtime.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\EntityFramework.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\EntityFramework.SqlServer.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.Web.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Newtonsoft.Json.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Net.Http.Formatting.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Helpers.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Http.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Http.WebHost.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Mvc.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Optimization.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Razor.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.WebPages.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.WebPages.Razor.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\WebGrease.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\EntityFramework.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\EntityFramework.SqlServer.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Newtonsoft.Json.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Net.Http.Formatting.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Helpers.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Http.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Http.WebHost.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Mvc.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Optimization.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.Razor.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.WebPages.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\System.Web.WebPages.Razor.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Antlr3.Runtime.pdb
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\bin\Microsoft.AI.Web.xml
+C:\Dev\fool-api apr24\fool-api\fool-api\obj\Debug\fool-api.csprojResolveAssemblyReference.cache
+C:\Dev\fool-api apr24\fool-api\fool-api\obj\Debug\fool-api.csproj.CoreCompileInputs.cache
+C:\Dev\fool-api apr24\fool-api\fool-api\obj\Debug\fool-api.csproj.CopyComplete
+C:\Dev\fool-api apr24\fool-api\fool-api\obj\Debug\fool-api.dll
+C:\Dev\fool-api apr24\fool-api\fool-api\obj\Debug\fool-api.pdb
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\ApplicationInsights.config
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csc.exe
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csc.exe.config
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csc.rsp
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csi.exe
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csi.exe.config
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csi.rsp
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.AppContext.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Console.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.Compression.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Claims.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.ValueTuple.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\vbc.exe
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\vbc.exe.config
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\vbc.rsp
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\fool-api.dll.config
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\fool-api.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\fool-api.pdb
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Antlr3.Runtime.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.SqlServer.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.Web.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Newtonsoft.Json.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Net.Http.Formatting.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Helpers.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.WebHost.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Mvc.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Optimization.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Razor.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Razor.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\WebGrease.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.SqlServer.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Newtonsoft.Json.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Net.Http.Formatting.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Helpers.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.WebHost.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Mvc.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Optimization.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Razor.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Razor.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Antlr3.Runtime.pdb
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.Web.xml
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.csprojResolveAssemblyReference.cache
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.csproj.CoreCompileInputs.cache
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.dll
+C:\Dev\fool2\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.pdb
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\ApplicationInsights.config
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csc.exe
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csc.exe.config
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csc.rsp
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csi.exe
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csi.exe.config
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\csi.rsp
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.AppContext.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Console.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.Compression.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Claims.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.ValueTuple.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\vbc.exe
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\vbc.exe.config
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\vbc.rsp
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\fool-api.dll.config
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\fool-api.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\fool-api.pdb
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Antlr3.Runtime.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.SqlServer.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.Web.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Newtonsoft.Json.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Net.Http.Formatting.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Helpers.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.WebHost.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Mvc.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Optimization.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Razor.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Razor.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\WebGrease.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\EntityFramework.SqlServer.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Newtonsoft.Json.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Net.Http.Formatting.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Helpers.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Http.WebHost.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Mvc.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Optimization.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.Razor.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Web.WebPages.Razor.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Antlr3.Runtime.pdb
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AI.Web.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.csprojResolveAssemblyReference.cache
+C:\Dev\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.csproj.CoreCompileInputs.cache
+C:\Dev\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.csproj.CopyComplete
+C:\Dev\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\obj\Debug\fool-api.pdb
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Options.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Primitives.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Net.Http.Headers.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Buffers.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.ComponentModel.Primitives.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.ComponentModel.TypeConverter.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Runtime.Serialization.Primitives.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Text.Encodings.Web.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Options.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Extensions.Primitives.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Microsoft.Net.Http.Headers.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\System.Text.Encodings.Web.xml
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\Swashbuckle.Core.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\WebActivatorEx.dll
+C:\Dev\fool-api apr25 2\fool-api\fool-api\bin\fool-api.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\ApplicationInsights.config
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\csc.exe
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\csc.exe.config
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\csc.rsp
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\csi.exe
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\csi.exe.config
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\csi.rsp
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.AppContext.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Console.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.IO.Compression.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.Claims.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.ValueTuple.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\vbc.exe
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\vbc.exe.config
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\vbc.rsp
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\fool-api.dll.config
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\fool-api.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\fool-api.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\fool-api.pdb
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Antlr3.Runtime.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\EntityFramework.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\EntityFramework.SqlServer.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.Web.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Options.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Primitives.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Net.Http.Headers.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Newtonsoft.Json.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Swashbuckle.Core.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Buffers.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.ComponentModel.Primitives.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.ComponentModel.TypeConverter.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Net.Http.Formatting.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Runtime.Serialization.Primitives.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Text.Encodings.Web.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Helpers.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Http.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Http.WebHost.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Mvc.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Optimization.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Razor.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.WebPages.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.WebPages.Razor.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\WebActivatorEx.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\WebGrease.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\EntityFramework.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\EntityFramework.SqlServer.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Options.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Extensions.Primitives.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.Net.Http.Headers.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Newtonsoft.Json.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Text.Encodings.Web.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Net.Http.Formatting.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Helpers.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Http.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Http.WebHost.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Mvc.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Optimization.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.Razor.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.WebPages.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\System.Web.WebPages.Razor.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Antlr3.Runtime.pdb
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\bin\Microsoft.AI.Web.xml
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\obj\Debug\fool-api.csprojResolveAssemblyReference.cache
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\obj\Debug\fool-api.csproj.CoreCompileInputs.cache
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\obj\Debug\fool-api.dll
+C:\Dev\fool2\fool-api apr26 2\fool-api\fool-api\obj\Debug\fool-api.pdb
+C:\Dev\fool2 final\fool-api\fool-api\bin\ApplicationInsights.config
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\csc.exe
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\csc.exe.config
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\csc.rsp
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\csi.exe
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\csi.exe.config
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\csi.rsp
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.AppContext.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Console.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.IO.Compression.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.IO.Pipes.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.Claims.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Threading.Thread.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.ValueTuple.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\vbc.exe
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\vbc.exe.config
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\vbc.rsp
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe
+C:\Dev\fool2 final\fool-api\fool-api\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\fool2 final\fool-api\fool-api\bin\fool-api.dll.config
+C:\Dev\fool2 final\fool-api\fool-api\bin\fool-api.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\fool-api.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\fool-api.pdb
+C:\Dev\fool2 final\fool-api\fool-api\bin\Antlr3.Runtime.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\EntityFramework.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\EntityFramework.SqlServer.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.Web.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.ApplicationInsights.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Options.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Primitives.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Net.Http.Headers.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Newtonsoft.Json.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\Swashbuckle.Core.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Buffers.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.ComponentModel.Primitives.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.ComponentModel.TypeConverter.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Net.Http.Formatting.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Runtime.Serialization.Primitives.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Text.Encodings.Web.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Helpers.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Http.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Http.WebHost.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Mvc.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Optimization.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Razor.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.WebPages.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.WebPages.Razor.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\WebActivatorEx.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\WebGrease.dll
+C:\Dev\fool2 final\fool-api\fool-api\bin\EntityFramework.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\EntityFramework.SqlServer.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Options.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Extensions.Primitives.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.Net.Http.Headers.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Newtonsoft.Json.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Text.Encodings.Web.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Net.Http.Formatting.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Helpers.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Http.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Http.WebHost.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Mvc.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Optimization.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.Razor.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.WebPages.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\System.Web.WebPages.Razor.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Antlr3.Runtime.pdb
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.ApplicationInsights.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.WindowsServer.xml
+C:\Dev\fool2 final\fool-api\fool-api\bin\Microsoft.AI.Web.xml
+C:\Dev\fool2 final\fool-api\fool-api\obj\Debug\fool-api.csprojResolveAssemblyReference.cache
+C:\Dev\fool2 final\fool-api\fool-api\obj\Debug\fool-api.csproj.CoreCompileInputs.cache
+C:\Dev\fool2 final\fool-api\fool-api\obj\Debug\fool-api.csproj.CopyComplete
+C:\Dev\fool2 final\fool-api\fool-api\obj\Debug\fool-api.dll
+C:\Dev\fool2 final\fool-api\fool-api\obj\Debug\fool-api.pdb
